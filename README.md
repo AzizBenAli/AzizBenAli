@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aziz Ben Ali</h1>
 <h3 align="center">a passionate machine learning student at TUM 🤖📊</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 - 💬 Ask me about **Data Science, Machine Learning and Deep Learning**
 
 - 📫 How to reach me **benaliazizaba000@gmail.com**
