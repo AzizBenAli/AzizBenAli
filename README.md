@@ -1,3 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Greeting</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        .word {
+            display: inline-block;
+            opacity: 0;
+            transform: translateY(1em);
+            transition: opacity 0.5s, transform 0.5s;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">
+        <span class="word">Hi</span>
+        <span class="word">👋,</span>
+        <span class="word">I'm</span>
+        <span class="word">Aziz</span>
+        <span class="word">Ben</span>
+        <span class="word">Ali</span>
+    </h1>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const words = document.querySelectorAll('.word');
+            
+            words.forEach((word, index) => {
+                setTimeout(() => {
+                    word.style.opacity = '1';
+                    word.style.transform = 'translateY(0)';
+                }, index * 500); // Adjust the delay (500ms in this case) as needed
+            });
+        });
+    </script>
+</body>
+</html>
+
+
 <h1 align="center">Hi 👋, I'm Aziz Ben Ali</h1>
 <h3 align="center">a passionate machine learning student at TUM 🤖📊</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
