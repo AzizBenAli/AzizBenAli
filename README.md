@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aziz Ben Ali</h1>
 <h3 align="center">A Master's student specializing in Machine Learning 🤖📊</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 💬 **Interests:** Deep Learning, Reinforcement Learning, Large Language Models
 - 📫 **How to reach me:** [benaliazizaba000@gmail.com](mailto:benaliazizaba000@gmail.com)
