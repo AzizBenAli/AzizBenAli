@@ -8,6 +8,7 @@
 <p align="center">
     <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 </p>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
