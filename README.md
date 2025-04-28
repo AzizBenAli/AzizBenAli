@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aziz Ben Ali</h1>
 <h3 align="center">a passionate machine learning student at TUM 🤖📊</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-- 💬 Ask me about **Data Science, Machine Learning and Deep Learning**
-
+- 💬 Interests: Deep Learning, Reinforcement Learning, Large Language Models
 - 📫 How to reach me **benaliazizaba000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
