@@ -4,7 +4,6 @@
 <h3 align="center">A Master's student specializing in Machine Learning 🤖📊</h3>
 
 - 💬 **Interests:** Deep Learning, Reinforcement Learning, Large Language Models
-- 📫 **How to reach me:** [benaliazizaba000@gmail.com](mailto:benaliazizaba000@gmail.com)
 <p align="center">
     <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 </p>
